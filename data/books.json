@@ -1,0 +1,39 @@
+[
+    {
+      "title": "Untamed",
+      "author": "Glennon Doyle",
+      "description": "A memoir about breaking free from expectations and embracing your true self.",
+      "image": "images/untamed.jpg"
+    },
+    {
+      "title": "Becoming",
+      "author": "Michelle Obama",
+      "description": "An inspiring memoir by the former First Lady of the United States.",
+      "image": "images/becoming.jpg"
+    },
+    {
+      "title": "Women Who Run with the Wolves",
+      "author": "Clarissa Pinkola Estés",
+      "description": "Stories and myths about the powerful archetype of the wild woman.",
+      "image": "images/womenwho.jpg"
+    },
+    {
+      "title": "Bad Feminist",
+      "author": "Roxane Gay",
+      "description": "A witty and insightful collection of essays on feminism, identity, and culture.",
+      "image": "images/badfeminist.jpg"
+    },
+    {
+      "title": "The Power",
+      "author": "Naomi Alderman",
+      "description": "A speculative fiction novel where women develop the ability to produce electrical energy.",
+      "image": "images/thepower.jpg"
+    },
+    {
+      "title": "Educated",
+      "author": "Tara Westover",
+      "description": "A memoir about a woman who grows up in a strict and abusive household and eventually escapes through education.",
+      "image": "images/educated.webp"
+    }
+  ]
+  
